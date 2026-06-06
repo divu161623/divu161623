@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Divya%20Pandey&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Divya%20Pandey&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Aspiring%20Software%20Developer&descAlignY=65" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;AI+%26+ML+Enthusiast;React+Developer" />
+</p>
 # Hi 👋, I'm Divya Pandey
 
 ### 🎓 B.Tech CSE Student
@@ -7,6 +10,11 @@
 ---
 
 ## 🚀 Skills
+<h2>💻 Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,git,github,vscode" />
+</p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -33,28 +41,34 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-🔹 React Quiz App
+🌟 Portfolio Website
 
-🔹 Pneumonia Detection using Deep Learning
+🌟 React Quiz App
 
-🔹 Few-Shot Learning Research Project
+🌟 Pneumonia Detection System
 
----
+🌟 Few-Shot Learning Research
 
 ## 📊 GitHub Stats
 
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divu161623&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=divu161623&show_icons=true&theme=radical)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=divu161623&theme=radical)
 
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=_divu161623)
 
 ---
+## 📈 Contribution Graph
 
-## 📫 Connect With Me
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=divu161623&theme=react-dark)
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/divu161623)
 
 📧 diya231616@gmail.com
+> ✨ Turning ideas into real-world solutions through code and creativity.
