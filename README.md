@@ -1,8 +1,8 @@
-# Hi 👋, I'm Diya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Divya%20Pandey&fontSize=45&fontColor=ffffff"/>
+# Hi 👋, I'm Divya Pandey
 
 ### 🎓 B.Tech CSE Student
 ### 💻 Aspiring Software Developer
-### 🤖 AI & Machine Learning Enthusiast
 
 ---
 
@@ -28,7 +28,7 @@
 
 - React
 - Machine Learning
-- Deep Learning
+- AI
 - Data Structures & Algorithms
 
 ---
@@ -36,8 +36,6 @@
 ## 📂 Projects
 
 🔹 React Quiz App
-
-🔹 Portfolio Website
 
 🔹 Pneumonia Detection using Deep Learning
 
@@ -47,16 +45,16 @@
 
 ## 📊 GitHub Stats
 
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divu161623&show_icons=true)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=_divu161623)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 your-email@gmail.com
+📧 diya231616@gmail.com
